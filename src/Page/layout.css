@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.products {
+  box-shadow: 0px 9px 16px rgba(0, 0, 0, 0.06),
+    0px 2.01027px 3.57381px rgba(0, 0, 0, 0.03),
+    0px 0.598509px 1.06402px rgba(0, 0, 0, 0.0161557);
+  border-radius: 8px;
+}
+img {
+  object-fit: contain;
+  height: 212px;
+}
